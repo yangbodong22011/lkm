@@ -1,0 +1,1 @@
+cmd_/home/yangbodong/kernel/4-6/printpidmod.ko := ld -r -Map /var/tmp/printpid.txt -T ./scripts/module-common.lds --build-id  -o /home/yangbodong/kernel/4-6/printpidmod.ko /home/yangbodong/kernel/4-6/printpidmod.o /home/yangbodong/kernel/4-6/printpidmod.mod.o
