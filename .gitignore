@@ -7,5 +7,5 @@
 *.order
 *.symvers
 .*.mod
-.tmp_versions
-.*.mod
+/.tmp_versions/
+.*.cmd
